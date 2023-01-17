@@ -1,0 +1,24 @@
+ProductID , ProductName       , UnitPrice
+0001          / Milk                         / 100.00
+0002          / Bread                      / 49.99
+0003          / Canned Tuna         / 37.75
+0004          / Canned Sardines  / 26.00
+0005          / Chocolate               / 50.75
+0006          / Pasta                        / 89.75
+0007          / Bottled Water        / 16.99
+0008          / Paper                       / 23.99
+0009          / Ballpen                    / 9.75
+0010          / Paper Cup              / 19.75
+0011          / Paper Plate            / 29.75
+0012          / TootBrush               / 14.75
+0013          / ToothPaste             / 19.75
+0014	  / Hand Towel	   / 25.00
+0015	  / Tissue 		   / 48.99
+0016	  / Cotton Balls 	   / 29.00
+0017	  / Plastic Spoon	   / 24.75
+0018	  / Plastic Fork 	   / 25.75
+0019	  / FaceMask	   / 59.99
+0020	  / Biscuit	  	   / 75.00
+0021	  / Popcorn	   / 46.50
+0022	  / Coca Cola	   / 75.00
+0023	  / Sprite		   / 75.00
